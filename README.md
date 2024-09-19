@@ -1,7 +1,7 @@
 # Ansible Collection - it_schmid.test_utils
 
 Meine erste einfache Ansible Collection.
-Aktuell gibt es nur folgende zwei Module, die aktuell nur mal zum Testen verwende.
+Aktuell gibt es nur folgende zwei Module, die ich aktuell nur mal zum Testen verwende.
 
 ### Aktuell
 
